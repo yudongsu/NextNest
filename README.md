@@ -6,4 +6,8 @@ NextNest 연동
 
 - nestjs 도메인 - (실행) npm run start:dev -> http://localhost:5000
 
-  -> 6강 (https://nextjs.org/learn/dashboard-app/setting-up-your-database)
+* PostgreSql : https://vercel.com/badongs-projects/~/stores/postgres/store_tZCUdigGd6io4Mc6/data
+  계정 : default/XybWvM86swdt
+  EP : ep-lingering-snow-a4bcrqhq.us-east-1.aws.neon.tech
+
+-> 구성요소 (https://nextjs.org/learn/dashboard-app/streaming#grouping-components)
