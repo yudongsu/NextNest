@@ -10,4 +10,5 @@ NextNest 연동
   계정 : default/XybWvM86swdt
   EP : ep-lingering-snow-a4bcrqhq.us-east-1.aws.neon.tech
 
--> 구성요소 (https://nextjs.org/learn/dashboard-app/streaming#grouping-components)
+-> 3. URL과 입력의 동기화 유지(
+https://nextjs.org/learn/dashboard-app/adding-search-and-pagination#3-keeping-the-url-and-input-in-sync)
