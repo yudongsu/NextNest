@@ -10,4 +10,8 @@ NextNest 연동
   계정 : default/XybWvM86swdt
   EP : ep-lingering-snow-a4bcrqhq.us-east-1.aws.neon.tech
 
-=> 인증추가 https://nextjs.org/learn/dashboard-app/adding-authentication
+* 로그인 :
+  Email: user@nextmail.com
+  Password: 123456
+
+=> Adding Metadata https://nextjs.org/learn/dashboard-app/adding-metadata
